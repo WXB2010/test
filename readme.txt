@@ -5,5 +5,9 @@ Git tracks changes of files.
 Git
 +777
 +888
+<<<<<<< HEAD
 +8
 +999
+=======
++8
+>>>>>>> aa
